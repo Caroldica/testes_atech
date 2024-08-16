@@ -1,2 +1,3 @@
-# testes_atech
-Testes de usuário 
+Instalar as Dependências
+pip install playwright
+playwright install
